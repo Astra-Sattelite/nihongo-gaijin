@@ -14,7 +14,7 @@ Uuid
 
 Normalize\
 Scss\
-Material-ui\
+Material-ui
 
 # Getting Started with Create React App
 
