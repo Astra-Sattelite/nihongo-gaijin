@@ -1,20 +1,20 @@
 # Core Tech
 
-Typescript
-React
-React-router-dom
-Redux
-Redux-Toolkit
+Typescript.
+React.
+React-router-dom.
+Redux.
+Redux-Toolkit.
 
 # Libs
 
-uuid
+Uuid
 
 # Visual
 
-Normalize
-Scss
-Material-ui
+Normalize.
+Scss.
+Material-ui.
 
 # Getting Started with Create React App
 
