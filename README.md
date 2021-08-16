@@ -1,3 +1,21 @@
+# Core Tech
+
+Typescript
+React
+React-router-dom
+Redux
+Redux-Toolkit
+
+# Libs
+
+uuid
+
+# Visual
+
+Normalize
+Scss
+Material-ui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
