@@ -1,6 +1,6 @@
 # Core Tech
 
-Typescript.
+Typescript\
 React.
 React-router-dom.
 Redux.
