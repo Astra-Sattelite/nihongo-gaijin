@@ -1,20 +1,18 @@
-import { TestComp } from './components/testComp/TestComp'
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom"
+import { Header } from './components/header/Header'
+import { Content } from './components/content/Content'
+import './assets/css/rootContainer.css'
+import * as React from "react"
+import { BrowserRouter as Router } from "react-router-dom"
 
 
-function App() {
+const App: React.FC = () => {
   return (
-    <Router>
-      <Switch>
-        <Route path="/">
-          <TestComp />
-        </Route>
-      </Switch>
-    </Router>
+    <div className="rootContainer">
+      <Router>
+        <Header />
+        <Content />
+      </Router>
+    </div>
   )
 }
 

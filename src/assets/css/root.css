@@ -1,4 +1,26 @@
+html {
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none
+}
+
+body {
+  font-size: 1rem;
+}
+
 html, body {
-  margin: 0;
   height: 100%;
+  margin: 0;
+  background-color: #FFF3CB;
+}
+
+html, body > div {
+  height: 100%;
+  margin: 0;
+}
+
+label, p {
+  min-height: 0vw
 }
