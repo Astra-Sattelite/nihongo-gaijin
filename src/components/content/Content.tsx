@@ -1,3 +1,4 @@
+import { Landing } from '../landing/Landing'
 import '../../assets/scss/content.scss'
 import React from 'react'
 import {
@@ -11,6 +12,7 @@ export const Content: React.FC = () => {
     <div className="containerC">
       <Switch>
         <Route path="/">
+          <Landing />
         </Route>
       </Switch>
     </div>
