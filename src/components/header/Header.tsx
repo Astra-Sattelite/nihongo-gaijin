@@ -33,10 +33,10 @@ const LinksRow: React.FC = () => {
         Контакты
       </a>
       <a className="scalableText" href="/">
-        Контакты
+        Личный урок
       </a>
       <a className="scalableText" href="/">
-        Контакты
+        Помощь проекту
       </a>
     </div>
   )
